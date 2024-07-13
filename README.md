@@ -1,7 +1,6 @@
 <div align="center">
   <h1>GPT-SoVITS-No-WebUI-Colab</h1>
-  <p>Inference:</p>
-</div>
+  </div>
 
 Welcome to the **GPT-SoVITS-No-WebUI-Colab** repository! This project provides a Colab notebook for generating text-to-speech (TTS) using the GPT-SoVITS model without a web user interface.
 
