@@ -477,7 +477,7 @@ def get_sovits_model(model_name, use_pretrained):
     if model_name and not use_pretrained:
         model_dir_path = os.path.join(models_dir_path, model_name)
         for r, _, f_list in os.walk(model_dir_path):
-            for f in f_list):
+            for f in f_list:
                 if f.endswith(".pth"):
                     return os.path.join(r, f)
     print(f"Using pretrained SoVITS model ({pretrained_sovits_path}).")
