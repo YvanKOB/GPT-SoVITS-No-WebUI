@@ -1,5 +1,4 @@
-# GPT-SoVITS No WebUI Inference Colab
-
+# GPT-SoVITS No WebUI
 ___
 
 <a href="https://fakeyou.com/"><img src="https://fakeyou.com/fakeyou/FakeYou-Logo.png" alt="FakeYou Logo. Click here to go to the official website." width="200"></a>
