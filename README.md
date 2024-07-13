@@ -7,7 +7,7 @@ This is a no webui colab implementation of [GPT-SoVITS](https://github.com/RVC-B
 
 Modified by [justinjohn-03](https://github.com/justinjohn0306).
 
-# Note
+### Note
 
 The training and inference notebooks will be made public soon
 ___
